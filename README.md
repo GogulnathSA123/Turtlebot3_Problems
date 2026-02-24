@@ -1,4 +1,4 @@
-# TurtleBot3 SLAM using ROS1
+# TurtleBot3 SLAM using ROS1 in a custom environment
 
 This project demonstrates real-time Simultaneous Localization and Mapping (SLAM) using TurtleBot3 in the Robot Operating System (ROS1) framework.
 

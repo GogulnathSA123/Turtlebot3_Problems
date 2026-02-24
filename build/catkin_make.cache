@@ -1,0 +1,2 @@
+bumperbot_controller:bumperbot_description:bumperbot_examples:bumperbot_localization:bumperbot_perception
+-DCATKIN_DEVEL_PREFIX=/home/gogul/bumperbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gogul/bumperbot_ws/install -G Unix Makefiles

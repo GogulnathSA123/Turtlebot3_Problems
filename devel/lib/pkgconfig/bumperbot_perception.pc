@@ -1,0 +1,8 @@
+prefix=/home/gogul/bumperbot_ws/devel
+
+Name: bumperbot_perception
+Description: Description of bumperbot_perception
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
